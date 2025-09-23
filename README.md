@@ -6,7 +6,7 @@ Thanks for creating content for Ignite!  Please follow this guidance so all igni
 
 If you have issues with the Skillable environment, please follow these steps:
 
-1. open an issue in the [Issues](/issues) tab.
+1. Open an issue in the [Issues](../../issues) tab.
 1. Describe the problem, be descriptive, use screenshots if possible etc.
 1. Tag the following Skillable employees:
    - @kylerosenthal
