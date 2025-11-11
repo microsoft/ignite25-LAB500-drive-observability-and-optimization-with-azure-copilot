@@ -1,31 +1,20 @@
+**Documentation: [aka.ms/OptimizationAgent](aka.ms/OptimizationAgent)**
 
-
-These instructions are for participants of the **instructor-led** Workshop "SESSIONNAME" at Microsoft AI Tour 2026.  Register to attend in a city near you at [Microsoft AI Tour](https://aitour.microsoft.com/).
+These instructions are for participants of Lab500: Drive observability & optimization with Azure Copilot at Microsoft Ignite 2025. 
 
 ## Lab Overview
 
-In this hands-on workshop, you’ll learn to ....
+In this hands-on workshop, you’ll learn to 
+* Detect and troubleshoot critical app failures using unified observability.
+* Improve monitoring posture with Service Groups.
+* Understand your optimization posture with cost, carbon footprint, and optimization recommendations.
+* Deep dive into your cloud resources' carbon footprint and identify drivers.
+* Optimize cost and carbon footprint using the agentic optimization capabilities in Azure Copilot.
 
-If you're not a workshop participant at AI Tour, try this code yourself at ....
+**Personas:** Ops Engineer, FinOps Manager, Sustainability Lead, CloudOps Engineer, Application Owner
 
-## Pre-Requisites
+**Lab Agenda:**
 
-To participate in this workshop, you will need:
-
-1. Your own laptop.
-   * It need only be capable of running a browser and GitHub Codespaces, so almost any laptop will do.
-   * A recent version of Edge, Chrome or Safari is recommended.
-2. Prerequisite #2
-3. Prerequisite #3
-
-## Get Started
-
-To get started you will need to
-
-## Discussions
-
-Build your first agent with Azure AI Agent Service is an open source project supported by Microsoft. See the [SUPPORT.md](../SUPPORT.md) file for details on how to raise issues or contribute. If you enjoyed this workshop please give the repository a ⭐ and share it with others.
-
-## Source code
-
-The source code for this session can be found in the [src folder](../src) of this repo.
+1. Investigate and troubleshoot issues → "Your app is failing-find out why?"
+2. Optimize cost & sustainability → "Now that it's stable, how do we optimize cost and carbon footprint?"
+3. Automate advanced actions. → "Finally, let's go deeper: agentic rightsizing."
