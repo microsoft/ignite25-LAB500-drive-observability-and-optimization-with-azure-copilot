@@ -4,7 +4,7 @@
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥Lab500: Drive observability & optimization with Azure Copilot
+## 🔥LAB500: Drive observability & optimization with Azure Copilot
 
 [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)
 [![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/AIFoundryForum-Ignite25)
@@ -24,14 +24,17 @@ By the end of this session, learners will be able to:
 -  Optimize cost and carbon footprint using the agentic optimization capabilities in Azure Copilot.
 
 ### ⚙️ Technology Used
-- Microsoft Copilot
+- [Microsoft Copilot](https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/microsoft-365-copilot)
 
 ### 📚 Resources and Next Steps
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
+| Optimization in OpsCenter Documentation | [https://aka.ms/OptimizationOpsCenter](https://aka.ms/OptimizationOpsCenter) | Learn more about the Optimization blade within the Operations Center |
 | Optimization Agent Documentation | [https://aka.ms/OptimizationAgent](https://aka.ms/OptimizationAgent) | Learn more about the Optimization Agent within Copilot and it's capabilities |
-| Observability Agent Documentation | | Connect with the Azure AI Foundry Community! |
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
+| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)| Connect with the Azure AI Foundry Community! |
+| Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
 
 ## Content Owners
 
